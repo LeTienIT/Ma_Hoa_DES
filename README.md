@@ -1,2 +1,2 @@
 # Ma_Hoa_DES_CSHAPE
-Thuật toán mã hóa DES dùng trong mã hóa dữ liệu và truyền tin. Đây là quy trình mã hóa một chuỗi theo cách để giải tbaif tập vì vậy có nhiều chố cồng kềnh, lặp lại. Sự dụng bảng ASCII tự định nghĩa lại với 97 ký tự.
+Thuật toán mã hóa DES dùng trong mã hóa dữ liệu và truyền tin. Đây là quy trình mã hóa một chuỗi theo cách để giải bài tập vì vậy có nhiều chố cồng kềnh, lặp lại, không tối ưu... Nó hoạt động theo quy trình giải bài tập mà tôi đã hoc. Bản code này sự dụng bảng ASCII tự định nghĩa lại với 97 ký tự - là các ký tự trên bàn phím. Bạn có tham khóa nó để làm bài tập, tuy nhiên nó cũng chưa hoàn toàn đúng.
