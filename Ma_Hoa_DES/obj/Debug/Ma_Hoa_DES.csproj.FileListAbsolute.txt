@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Ma_Hoa_DES\Ma_Hoa_DES\bin\Debug\Ma_Hoa_DES.exe.config
+C:\Users\Admin\Desktop\Ma_Hoa_DES\Ma_Hoa_DES\bin\Debug\Ma_Hoa_DES.exe
+C:\Users\Admin\Desktop\Ma_Hoa_DES\Ma_Hoa_DES\bin\Debug\Ma_Hoa_DES.pdb
+C:\Users\Admin\Desktop\Ma_Hoa_DES\Ma_Hoa_DES\obj\Debug\Ma_Hoa_DES.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ma_Hoa_DES\Ma_Hoa_DES\obj\Debug\Ma_Hoa_DES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Ma_Hoa_DES\Ma_Hoa_DES\obj\Debug\Ma_Hoa_DES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ma_Hoa_DES\Ma_Hoa_DES\obj\Debug\Ma_Hoa_DES.exe
+C:\Users\Admin\Desktop\Ma_Hoa_DES\Ma_Hoa_DES\obj\Debug\Ma_Hoa_DES.pdb
